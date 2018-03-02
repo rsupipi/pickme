@@ -6,4 +6,8 @@ https://courses.cs.washington.edu/courses/cse143/11wi/eclipse-tutorial/junit.sht
 
 https://lgtm.com/rules/2046840730/
 
+Mocking
+========
+https://stackoverflow.com/questions/38244496/how-to-pass-mock-parameter-in-a-method-using-mockito-java
 
+https://stackoverflow.com/questions/27602598/how-to-mock-instanceof-in-mockito
