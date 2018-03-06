@@ -13,3 +13,5 @@ https://stackoverflow.com/questions/38244496/how-to-pass-mock-parameter-in-a-met
 https://stackoverflow.com/questions/27602598/how-to-mock-instanceof-in-mockito
 
 https://stackoverflow.com/questions/7803944/how-to-mock-private-method-for-testing-using-powermock
+
+https://www.codeproject.com/Articles/806508/Using-PowerMockito-to-Mock-Final-and-Static-Method
