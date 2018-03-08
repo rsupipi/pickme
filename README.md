@@ -15,3 +15,5 @@ https://stackoverflow.com/questions/27602598/how-to-mock-instanceof-in-mockito
 https://stackoverflow.com/questions/7803944/how-to-mock-private-method-for-testing-using-powermock
 
 https://www.codeproject.com/Articles/806508/Using-PowerMockito-to-Mock-Final-and-Static-Method
+
+https://stackoverflow.com/questions/1087339/using-mockito-to-test-abstract-classes
