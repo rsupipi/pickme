@@ -35,3 +35,8 @@ mock static methods
 ------------------
 https://stackoverflow.com/questions/21105403/mocking-static-methods-with-mockito
 
+private method new object creation
+-----------------------------------
+
+https://stackoverflow.com/questions/48343538/mock-private-method-with-new-object-creation
+
