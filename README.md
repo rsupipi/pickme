@@ -40,3 +40,11 @@ private method new object creation
 
 https://stackoverflow.com/questions/48343538/mock-private-method-with-new-object-creation
 
+mock void methods
+-----------------
+http://www.baeldung.com/mockito-void-methods
+
+Multiple return
+-----------------
+PowerMockito.when(MyClass.MyMethod(Mockito.any(), Mockito.any())).thenReturn(spidRes)
+                    .thenReturn(header);
