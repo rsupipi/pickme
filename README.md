@@ -31,7 +31,7 @@ TestEnum
 --------
 https://stackoverflow.com/questions/37049218/mocking-an-enum-using-mockito
 
-mock static methods
+mock static methods & mock static void methods
 ------------------
 https://stackoverflow.com/questions/21105403/mocking-static-methods-with-mockito
 
@@ -48,3 +48,6 @@ Multiple return
 -----------------
 PowerMockito.when(MyClass.MyMethod(Mockito.any(), Mockito.any())).thenReturn(spidRes)
                     .thenReturn(header);
+
+mock sychronized methods
+--
