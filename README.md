@@ -50,4 +50,7 @@ PowerMockito.when(MyClass.MyMethod(Mockito.any(), Mockito.any())).thenReturn(spi
                     .thenReturn(header);
 
 mock sychronized methods
---
+---
+
+https://www.jetbrains.org/intellij/sdk/docs/tutorials/build_system/prerequisites.html
+
