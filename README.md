@@ -54,3 +54,6 @@ mock sychronized methods
 
 https://www.jetbrains.org/intellij/sdk/docs/tutorials/build_system/prerequisites.html
 
+https://www.youtube.com/playlist?list=PLUEpHrFKJbDnL2D9w-5EPrQL6H1-jJoS2
+http://java.scjp.jobs4times.com/
+
