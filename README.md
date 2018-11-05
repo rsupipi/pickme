@@ -56,7 +56,13 @@ https://www.jetbrains.org/intellij/sdk/docs/tutorials/build_system/prerequisites
 
 https://www.youtube.com/playlist?list=PLUEpHrFKJbDnL2D9w-5EPrQL6H1-jJoS2
 http://java.scjp.jobs4times.com/
-===============================
+
 java tutorial sites
+---
 https://www.youtube.com/channel/UC59K-uG2A5ogwIrHw4bmlEg
 http://java.scjp.jobs4times.com/fundamental.htm
+
+Machin Lerning
+---
+https://www.tensorflow.org/
+
